@@ -5,6 +5,7 @@ namespace TestProject1
     {
         public Bike()
         {
+            Console.WriteLine("Bike");
         }
     }
 }
